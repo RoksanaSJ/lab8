@@ -1,3 +1,4 @@
+#Notning 4
 KERNEL=="rtc0", GROUP="audio"
 
 KERNEL=="hpet", GROUP="audio"

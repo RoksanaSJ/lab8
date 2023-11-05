@@ -1,3 +1,4 @@
+#NOTHING 3
 # Prefer to recompress only idle pages. This will result in additional memory
 # savings, but may slightly increase CPU load due to additional compression
 # overhead.
